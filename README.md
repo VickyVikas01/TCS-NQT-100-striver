@@ -11,6 +11,7 @@ Editor: OneCompiler (Online IDE)
 
 Logic Source: [takeuforward.org
 ](https://takeuforward.org/interviews/tcs-nqt-coding-sheet-tcs-coding-questions)
+
 📸 Proof of Completion
 Since I practiced on an online compiler, I have captured screenshots of the code + output for every problem. You can find them in the folder, named according to the problem statement.
 
