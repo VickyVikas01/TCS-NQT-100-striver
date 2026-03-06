@@ -9,13 +9,13 @@ Language: Java 8+
 
 Editor: OneCompiler (Online IDE)
 
-Logic Source: takeuforward.org
-
+Logic Source: [takeuforward.org
+](https://takeuforward.org/interviews/tcs-nqt-coding-sheet-tcs-coding-questions)
 📸 Proof of Completion
-Since I practiced on an online compiler, I have captured screenshots of the code + output for every problem. You can find them in the /Screenshots folder, named according to the problem statement.
+Since I practiced on an online compiler, I have captured screenshots of the code + output for every problem. You can find them in the folder, named according to the problem statement.
 
 🚀 How to Use
-Browse by Category: Open any folder (e.g., trings) to view the .java files.
+Browse by Category: Open any folder (e.g., Strings) to view the files.
 
 Run Locally: You can copy the code and run it in any Java IDE or online compiler.
 
